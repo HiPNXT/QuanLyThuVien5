@@ -1,0 +1,7 @@
+Package: quanlythuvien
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: PhuNguyen
+Description: Phan mem quan ly thu vien original

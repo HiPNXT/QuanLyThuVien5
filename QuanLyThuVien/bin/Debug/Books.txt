@@ -1,0 +1,16 @@
+D01,Nhat ky Anne Frank,Anne Frank,NXB Dong A,1942,True
+D02,Hoi he mien man,Ernest Hemingway,NXB Hoi Nha Van,1965,True
+D03,Cay cam ngot cua toi,Jose Mauro,NXB Nha Nam,1964,True
+D04,The Outsider,Stephen King,NXB 1980,2015,True
+D05,Nhung nguoi khon kho,Victor Hugo,NXB Kim Dong,1938,True
+D06,Hai van dam duoi bien,Jules Vernes,NXB Dong A,1895,True
+D07,Quan Vuong,Nicoolo Machiavelli,NXB Nha Nam,1834,True
+D09,Vu tru trong vo hat de,Stephen Hawking,NXB Khoa Hoc,1987,True
+D10,FireStarter,Stephen King,NXB 1980,1987,True
+D11,Kinh hoang luc nua dem,RL.Stine,NXB Tuoi Tre,1987,False
+D12,Nhung chang trai xau tinh,Nguyen Nhat Anh,NXB Kim Dong,2004,True
+D13,Ngu Luan Thu,Miyamoto Mushashi,NXB Nha Nam,1865,True
+D14,Khuyen Hoc,Fukugawa Yukichi,NXB Nha Nam,1923,True
+D15,Pet Semetary,Stephen King,NXB 1980,1984,True
+D16,Head First C#,Andrew Stellman,O'Reilly Media,2007,True
+D17,Nhung cuoc phieu luu cua Tom Sawyer,Mark Twain,NXB Van Hoc,1932,True

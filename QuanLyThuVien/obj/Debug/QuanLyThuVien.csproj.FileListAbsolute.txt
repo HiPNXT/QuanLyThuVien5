@@ -1,0 +1,14 @@
+E:\DoAnTinHoc\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\DoAnTinHoc\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\DoAnTinHoc\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\DoAnTinHoc\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\DoAnTinHoc\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\DoAnTinHoc\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\DoAnTinHoc\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\DoAnTinHoc\QLTV_19_DH52111506\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\DoAnTinHoc\QLTV_19_DH52111506\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\DoAnTinHoc\QLTV_19_DH52111506\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\DoAnTinHoc\QLTV_19_DH52111506\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\DoAnTinHoc\QLTV_19_DH52111506\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\DoAnTinHoc\QLTV_19_DH52111506\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\DoAnTinHoc\QLTV_19_DH52111506\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
